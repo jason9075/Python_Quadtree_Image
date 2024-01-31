@@ -43,6 +43,12 @@ python main.py images/DALLE_AI_IMAGE_2.jpg -o images/QUAD_2.jpg
 
 ![](/images/QUAD_2.jpg)
 
+## Ref
+
+[ Insane Huge Terrain 10,000 square km - Godot engine ](https://www.youtube.com/watch?v=nFzaRfreD_o)
+[ Coding Challenge #98.1: Quadtree - Part 1 ](https://www.youtube.com/watch?v=OJxEcs0w_kE)
+[ Quadtrees in Unity are AMAZING ](https://www.youtube.com/watch?v=OquPzambxFA)
+
 ## License
 
 [MIT License](LICENSE)
