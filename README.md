@@ -43,6 +43,10 @@ python main.py images/DALLE_AI_IMAGE_2.jpg -o images/QUAD_2.jpg
 
 ![](/images/QUAD_2.jpg)
 
+## Article
+
+[ Medium 使用Quadtree對圖片進行壓縮的一些實驗 ](https://medium.com/@capillaryj/python-%E4%BD%BF%E7%94%A8quadtree%E5%B0%8D%E5%9C%96%E7%89%87%E9%80%B2%E8%A1%8C%E5%A3%93%E7%B8%AE%E7%9A%84%E4%B8%80%E4%BA%9B%E5%AF%A6%E9%A9%97-68b1fc132ab0)
+
 ## Ref
 
 1. [ Insane Huge Terrain 10,000 square km - Godot engine ](https://www.youtube.com/watch?v=nFzaRfreD_o)
