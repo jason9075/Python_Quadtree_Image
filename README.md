@@ -15,7 +15,7 @@ This Python script implements a quadtree-based image segmentation algorithm. It 
 Run the script from the command line by providing the path to the image and optional arguments for threshold, depth, line thickness, and output file name.
 
 ```
-python quadtree_segmentation.py [path_to_image] [optional_arguments]
+python main.py [path_to_image] [optional_arguments]
 ```
 
 ### Optional Arguments
